@@ -7,8 +7,11 @@
 
 
 I am a computer science student with a passion for data science. 
+
 I enjoy working with data to find patterns, solve problems, and create valuable insights.
+
 My goal is to offer the most suitable solutions that reflect project specifics and clients' needs.
+
 Website: https://adelwael.github.io/
 
 
