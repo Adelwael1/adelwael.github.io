@@ -17,10 +17,10 @@ contents:
   description: "Django, pandas, NumPy, Beautiful Soup"
   
   - title: Platforms and Tools
-  description: "Firebase, Android Studio, Microsoft SQL Server, Git & GitHub, VS Code, Visual Studio"
+  description: " Microsoft SQL Server, Git & GitHub, VS Code, Visual Studio"
     
   - title: Operating Systems
-    description: "Linux, Windows"
+    description: "Windows"
 
   - title: Courses
   description: "Data Structures, Algorithms, Database, OOP, Operating Systems, Linear Algebra, Discrete Mathematics, Calculus"
