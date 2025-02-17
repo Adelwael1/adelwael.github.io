@@ -2,11 +2,11 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: New Cairo Technological University
+  - title: Modern University For Technology and Information
     description:
       - Bachelor of Information and Communication Technology
-      - Major in Software Engineering
-    date: Oct. 2022 - Jun. 2026
+      - Major in Computer science
+    date: Oct. 2021 - Jun. 2025
     
   # - title: Stanfort University, MA in Computer Science
   #   description:
