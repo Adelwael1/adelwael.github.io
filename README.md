@@ -54,5 +54,7 @@ Experience
 
 
 Modern University For Technology and Information – Cairo, elmokkatam
+
 Bachelor of Information and Communication Technology (Major: computer science)
+
 October 2021 – May 2025
