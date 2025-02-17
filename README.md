@@ -37,9 +37,13 @@ NBA Data Analysis Project
 
 
 • Programming Languages: python , SQL and C++. • Data science: Proficient in python , SQL and using Jupyter Notebook
+
 • Database Management: MySQL
+
 • Image Processing: Expertise in image filters and AI integration
+
 • Data Structures & Algorithms: Strong understanding for efficient coding
+
 
 
 
