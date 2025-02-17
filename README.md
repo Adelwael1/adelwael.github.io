@@ -20,11 +20,18 @@ Data science : Digital Egypt Pioneers Initiative - DEPI -2025
 
 
 NBA Data Analysis Project 
+
 • Collected, cleaned, and preprocessed NBA player statistics and game data using Python (Pandas, NumPy) and SQL. 
+
 • Conducted exploratory data analysis (EDA) using Matplotlib and Seaborn to identify trends in player performance, team dynamics, and game outcomes. 
-• Designed interactive dashboards and visualizations using Plotly to effectively communicate insights. 
+
+• Designed interactive dashboards and visualizations using Plotly to effectively communicate insights.
+
 • Optimized data querying processes by developing SQL scripts, improving retrieval times by 30% and enabling faster analysis for strategic decision-making. 
+
 • Delivered actionable insights to optimize fantasy league strategies and team performance. Tools: Python, SQL, Matplotlib, Seaborn, Plotly, Jupyter Notebook.
+
+
 ## Technical Skills
 
 
