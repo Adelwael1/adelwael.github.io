@@ -1,8 +1,8 @@
-#Adel wael's Resume
+# Adel wael's Resume
 
 
 
-##Summary
+## Summary
 
 
 
@@ -15,7 +15,7 @@ Website: https://adelwael.github.io/
 
 
 Data science : Digital Egypt Pioneers Initiative - DEPI -2025
-##Projects
+## Projects
 
 
 
@@ -36,7 +36,7 @@ NBA Data Analysis Project
 
 
 
-##Relevant Coursework
+## Relevant Coursework
 
 
 
@@ -48,7 +48,7 @@ Experience
 
 
 
-##Education
+## Education
 
 
 
