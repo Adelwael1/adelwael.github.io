@@ -10,7 +10,7 @@ I am a computer science student with a passion for data science.
 I enjoy working with data to find patterns, solve problems, and create valuable insights.
 My goal is to offer the most suitable solutions that reflect project specifics and clients' needs.
 Website: https://adelwael.github.io/
-##Certificates
+
 
 
 ## Certificates
@@ -25,7 +25,7 @@ NBA Data Analysis Project
 • Designed interactive dashboards and visualizations using Plotly to effectively communicate insights. 
 • Optimized data querying processes by developing SQL scripts, improving retrieval times by 30% and enabling faster analysis for strategic decision-making. 
 • Delivered actionable insights to optimize fantasy league strategies and team performance. Tools: Python, SQL, Matplotlib, Seaborn, Plotly, Jupyter Notebook.
-##Technical Skills
+## Technical Skills
 
 
 
